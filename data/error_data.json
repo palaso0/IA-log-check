@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Pauño",
+    "lastName": "Choque",
+    "birthday": "2023-09-06",
+    "email": "p@12.com",
+    "country": "Bolivia",
+    "company": ""
+  },
+  {
+    "name": "Pauño",
+    "lastName": "Choque",
+    "birthday": "2023-09-06",
+    "email": "p@12.com",
+    "country": "Bolivia",
+    "company": "Assuresoft"
+  },
+  {
+    "name": "Cristiano",
+    "lastName": "Ronaldo",
+    "birthday": "2023-06-07",
+    "email": "a@12.com",
+    "country": "Portugal",
+    "company": ""
+  },
+  {
+    "name": "ñandu",
+    "lastName": "",
+    "birthday": "2023-06-07",
+    "email": "a@12.com",
+    "country": "Portugal",
+    "company": "Dinamara"
+  },
+  {
+    "name": "Robertñ",
+    "lastName": "Lewan",
+    "birthday": "2023-06-14",
+    "email": "l@12.com",
+    "country": "Poland",
+    "company": "barza"
+  }
+]

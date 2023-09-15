@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Claudio",
+    "lastName": "Palacios",
+    "birthday": "2023-09-06",
+    "email": "c@12.com",
+    "country": "Bolivia",
+    "company": "Assuresoft"
+  },
+  {
+    "name": "Lionel",
+    "lastName": "Messi",
+    "birthday": "2023-09-01",
+    "email": "c@12.com",
+    "country": "Argentina",
+    "company": "Barcelona"
+  },
+  {
+    "name": "Ansu",
+    "lastName": "Fati",
+    "birthday": "2023-06-16",
+    "email": "a@12.com",
+    "country": "España",
+    "company": "Barcelona"
+  },
+  {
+    "name": "Lukaky",
+    "lastName": "",
+    "birthday": "2023-06-07",
+    "email": "a@12.com",
+    "country": "Portugal",
+    "company": "Dinamara"
+  },
+  {
+    "name": "RobertÑ",
+    "lastName": "Lewan",
+    "birthday": "2023-06-14",
+    "email": "l@12.com",
+    "country": "Poland",
+    "company": "barza"
+  }
+]
